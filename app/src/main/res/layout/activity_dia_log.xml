@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DiaLogActivity">
+
+    <Button
+        android:id="@+id/btnCustomDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:onClick="btnCustomDialog"
+        android:text="CustomDialog"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btnAlerDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:onClick="btnAlerDialog"
+        android:text="AlertDiaLog"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btnAlerListDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:onClick="btnAlerListDialog"
+        android:text="AlertListDiaLog"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btnAlerSimpleDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:onClick="btnAlerSimpleDialog"
+        android:text="AlertSimpleDiaLog"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btnAlerMultichoiceDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:onClick="btnAlerMultichoiceDialog"
+        android:text="AlertMultichoiceDiaLog"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btnAlerDatePickerDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:onClick="btnAlerDatePickerDialog"
+        android:text="AlertDatePickerDiaLog"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btnAlerShowTimeStickerDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:onClick="btnAlerShowTimeStickerDialog"
+        android:text="AlertShowTimeStickerDiaLog"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btnAlerProgressDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:onClick="btnAlerProgressDialog"
+        android:text="AlertProgressDiaLog"
+        android:textAllCaps="false" />
+
+</LinearLayout>

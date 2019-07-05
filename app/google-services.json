@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "897929890369",
+    "firebase_url": "https://test-ba2f9.firebaseio.com",
+    "project_id": "test-ba2f9",
+    "storage_bucket": "test-ba2f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897929890369:android:dd1274f6b7ee4c85",
+        "android_client_info": {
+          "package_name": "com.lvh.phan5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897929890369-p22ubg8qkoblgjc5sgg8ntt9idhvrssq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2nwE7borpsureNTV5u7zME7xt3GOqWW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897929890369-p22ubg8qkoblgjc5sgg8ntt9idhvrssq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897929890369:android:d475f42f0b8677a9",
+        "android_client_info": {
+          "package_name": "com.lvh.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897929890369-ofrjfidgs8b3qnrae8jl64dhk8pc70jj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lvh.test",
+            "certificate_hash": "fd56f341e3f09e1c4deee5595161d5684ab030e4"
+          }
+        },
+        {
+          "client_id": "897929890369-p22ubg8qkoblgjc5sgg8ntt9idhvrssq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2nwE7borpsureNTV5u7zME7xt3GOqWW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897929890369-p22ubg8qkoblgjc5sgg8ntt9idhvrssq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
